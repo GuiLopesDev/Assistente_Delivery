@@ -27,7 +27,6 @@ O prompt inicial inserido no repositório foi:
 
 A partir deste prompt, o Haiku 3.0 gerará opções de acordo com o solicitado, apresentando sugestões de acompanhamentos, bebidas e locais que se encaixem no contexto fornecido. O objetivo é fornecer recomendações personalizadas e adequadas ao tema do jantar romântico.
 
-## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+## Consideração Final
 
 Espero que este projeto sirva como um exemplo útil de integração entre AWS Step Functions e a IA Haiku 3.0, oferecendo sugestões personalizadas e de alta qualidade para diversas ocasiões.
